@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלו את מגוון המוצרים האורגניים והטבעיים שלנו. קנייה נוחה, משלוח מהיר ומחויבות לאורח חיים בריא וידידותי לסביבה. הזמינו עכשיו!
+
+### אודות
+https://example.com/about
+למדו על הערכים המנחים אותנו, המסע שלנו לקידום אורח חיים בריא והמחויבות שלנו לאיכות ואותנטיות במוצרים אורגניים. הכירו את הצוות!
+
+### קיימות
+https://example.com/sustainability
+גלו כיצד אנו פועלים למען הסביבה: אריזות ידידותיות, ספקים מקומיים, והפחתת פליטות. הצטרפו למהפכה הירוקה שלנו ותרמו לעתיד טוב יותר!
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלות? רוצים ייעוץ אישי? הצוות שלנו כאן בשבילכם! פנו אלינו בכל דרך נוחה ונחזור אליכם במהירות. שירות לקוחות מעולה מובטח!
+
+### Products
+https://example.com/products
+המוצרים שלנו - Kokito
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Kokito
+
+### Category
+https://example.com/category/:slug
+מוצרים - Kokito
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
